@@ -8,7 +8,7 @@ CONFIG = os.path.join(
          os.path.abspath(os.path.dirname(__file__)),
          'lint_diff.ini',
 )
-
+iii
 # NOTE: The `diff` and `exclude` options of pycodestyle seem to be
 # incompatible, so instead just exclude the necessary files when
 # computing the diff itself.
